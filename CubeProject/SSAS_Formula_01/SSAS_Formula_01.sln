@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "SSAS_Formula_01", "SSAS_Formula_01\SSAS_Formula_01.dwproj", "{C1B5F4B3-C055-4DA9-A864-876530F6AF27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1B5F4B3-C055-4DA9-A864-876530F6AF27}.Development|Default.ActiveCfg = Development
+		{C1B5F4B3-C055-4DA9-A864-876530F6AF27}.Development|Default.Build.0 = Development
+		{C1B5F4B3-C055-4DA9-A864-876530F6AF27}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
